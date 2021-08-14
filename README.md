@@ -1,9 +1,10 @@
-# Rembg
+## My To Do
 
-[![Downloads](https://pepy.tech/badge/rembg)](https://pepy.tech/project/rembg)
-[![Downloads](https://pepy.tech/badge/rembg/month)](https://pepy.tech/project/rembg/month)
-[![Downloads](https://pepy.tech/badge/rembg/week)](https://pepy.tech/project/rembg/week)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://img.shields.io/badge/License-MIT-blue.svg)
+1. Make use of the script without installing it as a python library. 
+
+---
+
+# Rembg
 
 Rembg is a tool to remove images background. That is it.
 
@@ -34,7 +35,7 @@ Rembg is a tool to remove images background. That is it.
   <img src="https://raw.githubusercontent.com/danielgatis/rembg/master/examples/girl-3.out.png" width="100" />
 </p>
 
-#### *** If you want to remove background from videos try this this fork: https://github.com/ecsplendid/rembg-greenscreen ***
+***If you want to remove background from videos try this this [fork](https://github.com/ecsplendid/rembg-greenscreen)***
 
 ### Requirements
 
